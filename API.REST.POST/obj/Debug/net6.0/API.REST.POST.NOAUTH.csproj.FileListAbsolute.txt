@@ -1,0 +1,14 @@
+C:\Users\syed2\Documents\GitHub\Arc360\arc360public\API.REST.POST\bin\Debug\net6.0\API.REST.POST.NOAUTH.exe
+C:\Users\syed2\Documents\GitHub\Arc360\arc360public\API.REST.POST\bin\Debug\net6.0\API.REST.POST.NOAUTH.deps.json
+C:\Users\syed2\Documents\GitHub\Arc360\arc360public\API.REST.POST\bin\Debug\net6.0\API.REST.POST.NOAUTH.runtimeconfig.json
+C:\Users\syed2\Documents\GitHub\Arc360\arc360public\API.REST.POST\bin\Debug\net6.0\API.REST.POST.NOAUTH.dll
+C:\Users\syed2\Documents\GitHub\Arc360\arc360public\API.REST.POST\bin\Debug\net6.0\API.REST.POST.NOAUTH.pdb
+C:\Users\syed2\Documents\GitHub\Arc360\arc360public\API.REST.POST\obj\Debug\net6.0\API.REST.POST.NOAUTH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\syed2\Documents\GitHub\Arc360\arc360public\API.REST.POST\obj\Debug\net6.0\API.REST.POST.NOAUTH.AssemblyInfoInputs.cache
+C:\Users\syed2\Documents\GitHub\Arc360\arc360public\API.REST.POST\obj\Debug\net6.0\API.REST.POST.NOAUTH.AssemblyInfo.cs
+C:\Users\syed2\Documents\GitHub\Arc360\arc360public\API.REST.POST\obj\Debug\net6.0\API.REST.POST.NOAUTH.csproj.CoreCompileInputs.cache
+C:\Users\syed2\Documents\GitHub\Arc360\arc360public\API.REST.POST\obj\Debug\net6.0\API.REST.POST.NOAUTH.dll
+C:\Users\syed2\Documents\GitHub\Arc360\arc360public\API.REST.POST\obj\Debug\net6.0\refint\API.REST.POST.NOAUTH.dll
+C:\Users\syed2\Documents\GitHub\Arc360\arc360public\API.REST.POST\obj\Debug\net6.0\API.REST.POST.NOAUTH.pdb
+C:\Users\syed2\Documents\GitHub\Arc360\arc360public\API.REST.POST\obj\Debug\net6.0\API.REST.POST.NOAUTH.genruntimeconfig.cache
+C:\Users\syed2\Documents\GitHub\Arc360\arc360public\API.REST.POST\obj\Debug\net6.0\ref\API.REST.POST.NOAUTH.dll
